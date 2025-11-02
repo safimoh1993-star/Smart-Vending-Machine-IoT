@@ -29,7 +29,7 @@ The system uses **RFID technology**: when the user scans their card, they can en
 ---
 
 ## 💻 Code File
-All Arduino logic is included in **SmartVending.ino**.  
+All Arduino logic is included in **[SmartVending.ino](https://github.com/safimoh1993-star/Smart-Vending-Machine-IoT/blob/main/SmartVending.ino)**.  
 The code is written in **C++** and can be simulated using **Tinkercad Circuits** or implemented on a physical prototype.  
 
 ---
